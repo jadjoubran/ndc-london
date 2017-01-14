@@ -1,0 +1,14 @@
+{
+  "name": "NDC London",
+  "short_name": "NDC London",
+  "start_url": "index.html?homescreen=1",
+  "display": "standalone",
+  "background_color": "#ECECEC",
+  "theme_color": "#5BBA8B",
+  "orientation": "portrait",
+  "icons": [{
+    "src": "images/logo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }]
+}
