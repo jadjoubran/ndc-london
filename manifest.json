@@ -4,6 +4,7 @@
   "start_url": "index.html?homescreen=1",
   "display": "standalone",
   "background_color": "#ECECEC",
+  "description": "List of speakers at NDC London using json placeholder API",
   "theme_color": "#5BBA8B",
   "orientation": "portrait",
   "icons": [{
