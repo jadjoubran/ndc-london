@@ -1,6 +1,6 @@
 {
-  "name": "NDC London 2",
-  "short_name": "NDC London",
+  "name": "NDC London Demo",
+  "short_name": "London Demo",
   "scope": "/",
   "start_url": "index.html?homescreen=1",
   "display": "standalone",
