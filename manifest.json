@@ -1,6 +1,7 @@
 {
   "name": "NDC London 2",
   "short_name": "NDC London",
+  "scope": "/",
   "start_url": "index.html?homescreen=1",
   "display": "standalone",
   "background_color": "#ECECEC",
