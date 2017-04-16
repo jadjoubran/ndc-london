@@ -2,7 +2,7 @@
   "name": "NDC London Demo",
   "short_name": "London Demo",
   "scope": "/",
-  "start_url": "index.html?homescreen=1",
+  "start_url": "index.html?#homescreen",
   "display": "standalone",
   "background_color": "#ECECEC",
   "description": "List of speakers at NDC London using json placeholder API",

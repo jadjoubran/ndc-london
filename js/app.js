@@ -13,5 +13,7 @@
 		});
 	}
 
+    document.getElementById('is-homescreen').innerHTML = window.location.hash;
+
 	boot();
 })();
